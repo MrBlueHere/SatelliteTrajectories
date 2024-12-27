@@ -2,8 +2,9 @@
 Quick and dirty modelling of satellite trajectories around Earth. 
 
 <p align="middle">
-  <img src="animations/inclined_1000_eck4_2d.gif" width="45%" />
-  <img src="animations/number_8_orbit_eck4_2d.gif" width="45%" />
+  <img src="animations/inclined_1000_eck4_2d.gif" width="30%" />
+  <img src="animations/inclined_1000_3d.gif" width="30%" />
+  <img src="animations/number_8_orbit_eck4_2d.gif" width="30%" />
 </p>
 
 ## Introduction
